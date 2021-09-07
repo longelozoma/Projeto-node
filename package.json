@@ -1,0 +1,26 @@
+{
+  "name": "Projeto-node",
+  "version": "1.0.0",
+  "description": "Projeto de criação de rotas da api usando node",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longelozoma/Projeto-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longelozoma/Projeto-node/issues"
+  },
+  "homepage": "https://github.com/longelozoma/Projeto-node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.5",
+    "nodemon": "^2.0.12"
+  }
+}
